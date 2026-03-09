@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://banyuwangikab.go.id/media/banyuwangikab_go_id/icon/Logo_Pemkab_Banyuwangi.png" alt="Logo Kabupaten Banyuwangi" width="100"/>
+  <img src="https://github.com/it-rsbl/.github/blob/46c369ff07e2fe230820e22d398adabf4abc25ea/profile/Untitled%20design.png" alt="Logo RSBL" width="100"/>
   <h1>🏥 IT - Rumah Sakit Umum Daerah Blambangan (RSBL)</h1>
   <p><em>Inovasi Teknologi Kesehatan untuk Pelayanan yang Lebih Efektif dan Efisien</em></p>
   <p>
