@@ -28,8 +28,8 @@ Kami berkomitmen untuk menghadirkan solusi teknologi informasi yang andal dan am
 
 Dalam proses _development_ dan pemeliharaan _server_, IT RSBL memanfaatkan berbagai teknologi mulai dari bahasa pemrograman modern hingga infrastruktur terpusat:
 
-- **Backend:** PHP (Laravel/CodeIgniter4), Node.js
-- **Frontend:** HTML/CSS/JS, Vue.js, React, Bootstrap, Tailwind CSS, Alpine.js
+- **Backend:** PHP (Laravel/CodeIgniter4)
+- **Frontend:** HTML/CSS/JS, Bootstrap, Tailwind CSS
 - **Database:** MySQL
 - **Infrastruktur & Jaringan:** Mikrotik, Cisco, Linux Server (Ubuntu), Proxmox VE, Docker, Nginx/Apache
 
