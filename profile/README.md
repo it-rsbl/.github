@@ -31,7 +31,7 @@ Dalam proses _development_ dan pemeliharaan _server_, IT RSBL memanfaatkan berba
 - **Backend:** PHP (Laravel/CodeIgniter4)
 - **Frontend:** HTML/CSS/JS, Bootstrap, Tailwind CSS
 - **Database:** MySQL
-- **Infrastruktur & Jaringan:** Mikrotik, Cisco, Linux Server (Ubuntu), Proxmox VE, Docker, Nginx/Apache
+- **Infrastruktur & Jaringan:** Mikrotik, Linux Server (Ubuntu), Nginx/Apache
 
 ## 🤝 Informasi Kontak
 
